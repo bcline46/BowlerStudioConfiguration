@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/bcline46/BensSVGs.git": [
+      "bcline46/BensSVGs",
+      "1609015151087"
+    ],
     "https://gist.github.com/d883fbc6a23a744a2ff0bec1096f1c3f.git": [
       "GIST: resin prints of logo coins",
       "1609015138304"
