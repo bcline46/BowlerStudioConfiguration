@@ -6,7 +6,20 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/bcline46/ClineCraftLogoCoins.git:ClineCraftLogoCoins.SVG": [
+      "https://github.com/bcline46/ClineCraftLogoCoins.git",
+      "ClineCraftLogoCoins.SVG"
+    ],
+    "https://github.com/bcline46/BensSVGs.git:svgextrude.groovy": [
+      "https://github.com/bcline46/BensSVGs.git",
+      "svgextrude.groovy"
+    ],
+    "https://github.com/bcline46/BensSVGs.git:bensquare.svg": [
+      "https://github.com/bcline46/BensSVGs.git",
+      "bensquare.svg"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.18.0",
