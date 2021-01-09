@@ -1,43 +1,14 @@
 {
-  "workspace": {
-    "https://github.com/bcline46/BensSVGs.git": [
-      "bcline46/BensSVGs",
-      "1609015151087"
-    ],
-    "https://gist.github.com/d883fbc6a23a744a2ff0bec1096f1c3f.git": [
-      "GIST: resin prints of logo coins",
-      "1609015138304"
-    ]
-  },
+  "workspace": {},
   "studio-open-web": {},
-  "Saitek PLC Saitek P2600 Rumble Force Pad": {
-    "jogKinz": "rz",
-    "jogLink": "x",
-    "jogKinslider": "slider",
-    "jogKiny": "y",
-    "jogKinx": "x"
-  },
-  "studio-open-git": {
-    "https://gist.github.com/5f1c51cb0a009eb75b6f8143ff7c7ee6.git:AnimatronicHead.groovy": [
-      "https://gist.github.com/5f1c51cb0a009eb75b6f8143ff7c7ee6.git",
-      "AnimatronicHead.groovy"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
-    ],
-    "https://gist.github.com/d883fbc6a23a744a2ff0bec1096f1c3f.git:logocoins.groovy": [
-      "https://gist.github.com/d883fbc6a23a744a2ff0bec1096f1c3f.git",
-      "logocoins.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
-    "firstVersion": "0.18.8",
-    "showTerminal": true,
-    "skinBranch": "master",
-    "showDevices": true,
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "master",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
+    "skinBranch": "1.18.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "currentVersion": "0.19.3",
-    "showCreatureLab": false
+    "notifiedArduinoDep": true
   }
 }
