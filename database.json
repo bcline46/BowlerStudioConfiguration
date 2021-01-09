@@ -1,14 +1,21 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/bcline46/BensSVGs.git": [
+      "bcline46/BensSVGs",
+      "1610218215247"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.18.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12,
+    "fontsize": 12.0,
     "skinBranch": "1.18.0",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.18.0"
   }
 }
